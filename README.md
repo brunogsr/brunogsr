@@ -1,8 +1,13 @@
-## Sobre mim
+## Olá! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 
+<br>
+
+### Sobre mim:
 - 🔭 Atualmente sou estudante da Trybe
 - 🌱 Etapas de Front/Back em Js e Ts concluídas, em progresso de C#
 - 📫 Sinta-se livre para me contatar via Email: bruno.salinasgsr@gmail.com
+
+<br>
 
 ### Tecnologias que uso atualmente:
 <div style="display: inline_block">
@@ -27,6 +32,8 @@
     <img align="center" alt="github" height="20" src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" />
 </div>
 
+<br>
+
 ### Github Stats:
 <div style="display: inline_block" align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunogsr&show_icons=true&theme=dracula">
@@ -37,3 +44,7 @@
     <img height="135em" src="https://streak-stats.demolab.com?user=brunogsr&theme=dracula">
     <img height="135em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brunogsr&theme=dracula">
 </div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
