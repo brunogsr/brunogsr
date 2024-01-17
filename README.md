@@ -1,10 +1,10 @@
-## Bruno
+### Sobre mim
 
 - 🔭 Atualmente sou estudante da Trybe
 - 🌱 Etapas de Front/Back em Js e Ts concluídas, em progresso de C#
 - 📫 Sinta-se livre para me contatar via Email: bruno.salinasgsr@gmail.com
 
-### Tecnologias que uso atualmente
+### Tecnologias que uso atualmente:
 <div style="display: inline_block">
     <img align="center" alt="typescript" height="20" src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript" />
     <img align="center" alt="javascript" height="20" src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" />
@@ -27,6 +27,7 @@
     <img align="center" alt="github" height="20" src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" />
 </div>
 
+### Github Stats:
 <div style="display: inline_block" align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunogsr&show_icons=true&theme=dracula">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunogsr&layout=compact&theme=dracula">
