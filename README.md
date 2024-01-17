@@ -1,4 +1,4 @@
-### Sobre mim
+## Sobre mim
 
 - 🔭 Atualmente sou estudante da Trybe
 - 🌱 Etapas de Front/Back em Js e Ts concluídas, em progresso de C#
