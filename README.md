@@ -36,7 +36,3 @@
     <img height="135em" src="https://streak-stats.demolab.com?user=brunogsr&theme=dracula">
     <img height="135em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brunogsr&theme=dracula">
 </div>
-
-<div align="center">
-    <img src="https://github.com/brunogsr/brunogsr/blob/output/github-contribution-grid-snake-dark.svg">
-</div>
