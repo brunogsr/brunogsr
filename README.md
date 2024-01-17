@@ -26,3 +26,17 @@
     <img align="center" alt="git" height="20" src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" />
     <img align="center" alt="github" height="20" src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" />
 </div>
+
+<div style="display: inline_block" align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunogsr&show_icons=true&theme=dracula">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunogsr&layout=compact&theme=dracula">
+</div>
+
+<div style="display: inline_block" align="center">
+    <img height="135em" src="https://streak-stats.demolab.com?user=brunogsr&theme=dracula">
+    <img height="135em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brunogsr&theme=dracula">
+</div>
+
+<div align="center">
+    <img src="https://github.com/brunogsr/brunogsr/blob/output/github-contribution-grid-snake-dark.svg">
+</div>
