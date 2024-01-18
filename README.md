@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:9370DB,50:7B68EE,100:8A2BE2height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:F5DEB3,50:BDB76B,100:8A2BE2height=120&section=header"/>
  
 <div>
 <img height=300px src="https://i.giphy.com/AQRapWCgC7dThyVEYb.webp"/>
@@ -45,13 +45,13 @@
 
 ### Github Stats:
 <div style="display: inline_block" align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunogsr&show_icons=true&theme=dracula">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunogsr&layout=compact&theme=dracula">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunogsr&show_icons=true&theme=gruvbox">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunogsr&layout=compact&theme=gruvbox">
 </div>
 
 <div style="display: inline_block" align="center">
-    <img height="135em" src="https://streak-stats.demolab.com?user=brunogsr&theme=dracula">
-    <img height="135em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brunogsr&theme=dracula">
+    <img height="135em" src="https://streak-stats.demolab.com?user=brunogsr&theme=gruvbox">
+    <img height="135em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brunogsr&theme=gruvbox">
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:9370DB,50:7B68EE,100:8A2BE2height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:F5DEB3,50:BDB76B,100:8A2BE2height=120&section=footer"/>
