@@ -33,6 +33,7 @@
 
 ### Tecnologias que uso atualmente:
 <div style="display: inline_block">
+    <img align="center" alt="csharp" height="20" src="https://img.shields.io/badge/-CSharp-302C2B?style=flat&logo=csharp" />
     <img align="center" alt="typescript" height="20" src="https://img.shields.io/badge/-TypeScript-302C2B?style=flat&logo=typescript" />
     <img align="center" alt="javascript" height="20" src="https://img.shields.io/badge/-JavaScript-302C2B?style=flat&logo=javascript" />
     <img align="center" alt="nodejs" height="20" src="https://img.shields.io/badge/-Node.JS-302C2B?style=flat&logo=node.js" />
