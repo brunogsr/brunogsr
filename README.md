@@ -1,12 +1,11 @@
-<div>
-<img height=300px src="https://i.giphy.com/AQRapWCgC7dThyVEYb.webp"/>
-</div>
-
+  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&width=435&lines=Hello+there!+🌞🙌)](https://git.io/typing-svg)
 
 <br>
 
 ## Sobre mim:
+
+<img src="https://i.giphy.com/AQRapWCgC7dThyVEYb.webp" min-width="400px" max-width="400px" width="400px" align="right"/><br>
 
 - 🔭 Estudante da Trybe
   
@@ -57,3 +56,10 @@
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:F5DEB3,50:BDB76B,100:8A2BE2height=120&section=footer"/>
+<hr>
+
+<div align="center">
+  
+![](https://komarev.com/ghpvc/?username=brunogsr)
+
+</div>
