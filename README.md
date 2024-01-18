@@ -4,7 +4,7 @@
 
 </div>
 <br>
-<img src="https://i.giphy.com/AQRapWCgC7dThyVEYb.webp" min-width="400px" max-width="400px" width="400px" align="right"/>
+<img src="https://i.giphy.com/AQRapWCgC7dThyVEYb.webp" min-width="400px" max-width="400px" width="400px" align="center"/>
   
 - 🔭 Estudante da Trybe
   
@@ -29,7 +29,6 @@
     <img height="135em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brunogsr&theme=gruvbox">
 </div>
 
-<br>
 <br>
 <br>
 
