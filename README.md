@@ -2,7 +2,7 @@
 <img height=300px src="https://i.giphy.com/AQRapWCgC7dThyVEYb.webp"/>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&width=435&lines=Hello+there!+👋)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&width=435&lines=Hello+there!+🌞🙌)](https://git.io/typing-svg)
 
 <br>
 
