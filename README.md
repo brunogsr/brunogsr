@@ -57,10 +57,11 @@
 
 <hr>
 
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:F5DEB3,50:BDB76B,100:8A2BE2height=120&section=footer"/>
+
 <div align="center">
   
 <br> ![](https://komarev.com/ghpvc/?username=brunogsr)
 
 </div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:F5DEB3,50:BDB76B,100:8A2BE2height=120&section=footer"/>
