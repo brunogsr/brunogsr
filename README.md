@@ -1,10 +1,16 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:9370DB,50:7B68EE,100:8A2BE2height=120&section=header"/>
+
+
 ## Olá! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 
 <br>
 
 ### Sobre mim:
+
 - 🔭 Atualmente sou estudante da Trybe
+  
 - 🌱 Etapas de Front/Back em Js e Ts concluídas, em progresso de C#
+  
 - 📫 Sinta-se livre para me contatar via Email: bruno.salinasgsr@gmail.com
 
 <br>
@@ -45,6 +51,4 @@
     <img height="135em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brunogsr&theme=dracula">
 </div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
-</p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:9370DB,50:7B68EE,100:8A2BE2height=120&section=footer"/>
