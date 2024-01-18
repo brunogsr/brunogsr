@@ -48,7 +48,7 @@
 <br>
 
 <div align="center">
-  <h3 align="center">Front-End:</h3>
+  <h3 align="center">Front-End</h3>
     <img align="center" alt="typescript" height="20" src="https://img.shields.io/badge/-TypeScript-302C2B?style=flat&logo=typescript" />
     <img align="center" alt="javascript" height="20" src="https://img.shields.io/badge/-JavaScript-302C2B?style=flat&logo=javascript" />
     <img align="center" alt="react" height="20" src="https://img.shields.io/badge/-React-302C2B?style=flat&logo=react" />
@@ -56,7 +56,7 @@
     <img align="center" alt="html5" height="20" src="https://img.shields.io/badge/-HTML5-302C2B?style=flat&logo=html5" />
     <img align="center" alt="jest" height="20" src="https://img.shields.io/badge/-Jest-302C2B?style=flat&logo=jest" />
     <img align="center" alt="rtl" height="20" src="https://img.shields.io/badge/-React%20Testing%20Library-302C2B?style=flat&logo=rtl" />
-  <h3 align="center">Back-End:</h3>
+  <h3 align="center">Back-End</h3>
     <img align="center" alt="csharp" height="20" src="https://img.shields.io/badge/-CSharp-302C2B?style=flat&logo=csharp" />
     <img align="center" alt="nodejs" height="20" src="https://img.shields.io/badge/-Node.JS-302C2B?style=flat&logo=node.js" />
     <img align="center" alt="sequelize" height="20" src="https://img.shields.io/badge/-Sequelize-302C2B?style=flat&logo=sequelize" />
@@ -65,7 +65,7 @@
     <img align="center" alt="mysql" height="20" src="https://img.shields.io/badge/-MySQL-302C2B?style=flat&logo=mysql" />
     <img align="center" alt="chai" height="20" src="https://img.shields.io/badge/-Chai-302C2B?style=flat&logo=chai" />
     <img align="center" alt="mocha" height="20" src="https://img.shields.io/badge/-Mocha-302C2B?style=flat&logo=mocha" />
-  <h3 align="center">Tools:</h3>
+  <h3 align="center">Tools</h3>
     <img align="center" alt="eslint" height="20" src="https://img.shields.io/badge/-ESLint-302C2B?style=flat&logo=eslint" />
     <img align="center" alt="linux" height="20" src="https://img.shields.io/badge/-Linux-302C2B?style=flat&logo=linux" />
     <img align="center" alt="git" height="20" src="https://img.shields.io/badge/-Git-302C2B?style=flat&logo=git" />
