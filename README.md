@@ -1,11 +1,14 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:9370DB,50:7B68EE,100:8A2BE2height=120&section=header"/>
+ 
+<div>
+<img height=300px src="https://i.giphy.com/AQRapWCgC7dThyVEYb.webp"/>
+</div>
 
-
-## Olá! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&width=435&lines=Hello+there!+👋)](https://git.io/typing-svg)
 
 <br>
 
-### Sobre mim:
+## Sobre mim:
 
 - 🔭 Atualmente sou estudante da Trybe
   
