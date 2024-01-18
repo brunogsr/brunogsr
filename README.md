@@ -55,7 +55,6 @@
     <img align="center" alt="mocha" height="20" src="https://img.shields.io/badge/-Mocha-302C2B?style=flat&logo=mocha" />
     <img align="center" alt="eslint" height="20" src="https://img.shields.io/badge/-ESLint-302C2B?style=flat&logo=eslint" />
     <img align="center" alt="html5" height="20" src="https://img.shields.io/badge/-HTML5-302C2B?style=flat&logo=html5" />
-    <img align="center" alt="css3" height="20" src="https://img.shields.io/badge/-CSS3-302C2B?style=flat&logo=css3" />
     <img align="center" alt="linux" height="20" src="https://img.shields.io/badge/-Linux-302C2B?style=flat&logo=linux" />
     <img align="center" alt="git" height="20" src="https://img.shields.io/badge/-Git-302C2B?style=flat&logo=git" />
     <img align="center" alt="github" height="20" src="https://img.shields.io/badge/-GitHub-302C2B?style=flat&logo=github" />
