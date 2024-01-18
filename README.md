@@ -3,6 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&width=435&lines=Hello+there!+🌞🙌)](https://git.io/typing-svg)
 
 </div>
+<br>
 <img src="https://i.giphy.com/AQRapWCgC7dThyVEYb.webp" min-width="400px" max-width="400px" width="400px" align="right"/>
   
 - 🔭 Estudante da Trybe
@@ -13,10 +14,9 @@
 
 - 💻 Apaixonado por jogos e animes
 
-- 📫 Sinta-se livre para me contatar via e-mail: bruno.salinasgsr@gmail.com
+- 📫 Sinta-se livre para me contatar via e-mail: bruno.salinasgsr@gmail.com <br>
 
 <br>
-
 
 ### Github Stats:
 <div style="display: inline_block" align="center">
@@ -29,7 +29,14 @@
     <img height="135em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brunogsr&theme=gruvbox">
 </div>
 
+<br>
+<br>
+<br>
+
 ### Tecnologias que uso atualmente:
+
+<br>
+
 <div style="display: inline_block">
     <img align="center" alt="csharp" height="20" src="https://img.shields.io/badge/-CSharp-302C2B?style=flat&logo=csharp" />
     <img align="center" alt="typescript" height="20" src="https://img.shields.io/badge/-TypeScript-302C2B?style=flat&logo=typescript" />
