@@ -15,6 +15,8 @@
   
 <p>
   
+<h3>
+  
 - 🔭 Estudante da Trybe
   
 - 🌱 Desenvolvedor FullStack de Florianópolis/SC
@@ -24,7 +26,7 @@
 - 💻 Apaixonado por jogos e animes
 
 - 📫 Sinta-se livre para me contatar via e-mail: bruno.salinasgsr@gmail.com <br>
-  
+</h3>
 </p>
 
 </div>
