@@ -65,8 +65,8 @@
 
 <hr>
 
+<img width=100% src='https://capsule-render.vercel.app/api?type=waving&height=125&color=BDB76B&reversal=false&descAlign=50&section=footer' />
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:B8860B,50:BDB76B,100:8A2BE2height=120&section=footer"/>
 
 <div align="center">
   
