@@ -19,6 +19,18 @@
 
 <br>
 
+
+### Github Stats:
+<div style="display: inline_block" align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunogsr&show_icons=true&theme=gruvbox">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunogsr&layout=compact&theme=gruvbox">
+</div>
+
+<div style="display: inline_block" align="center">
+    <img height="135em" src="https://streak-stats.demolab.com?user=brunogsr&theme=gruvbox">
+    <img height="135em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brunogsr&theme=gruvbox">
+</div>
+
 ### Tecnologias que uso atualmente:
 <div style="display: inline_block">
     <img align="center" alt="typescript" height="20" src="https://img.shields.io/badge/-TypeScript-302C2B?style=flat&logo=typescript" />
@@ -43,17 +55,6 @@
 </div>
 
 <br>
-
-### Github Stats:
-<div style="display: inline_block" align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunogsr&show_icons=true&theme=gruvbox">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunogsr&layout=compact&theme=gruvbox">
-</div>
-
-<div style="display: inline_block" align="center">
-    <img height="135em" src="https://streak-stats.demolab.com?user=brunogsr&theme=gruvbox">
-    <img height="135em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brunogsr&theme=gruvbox">
-</div>
 
 <hr>
 
