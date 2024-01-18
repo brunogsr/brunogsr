@@ -31,12 +31,12 @@
 <br>
 
 ### 📊 Github Stats:
-<div style="display: inline_block" align="left">
+<div style="display: inline_block" align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunogsr&show_icons=true&theme=gruvbox"> <br>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunogsr&layout=compact&theme=gruvbox"> <br>
 </div>
 
-<div style="display: inline_block" align="left">
+<div style="display: inline_block" align="center">
     <img height="135em" src="https://streak-stats.demolab.com?user=brunogsr&theme=gruvbox"><br>
     <img height="135em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brunogsr&theme=gruvbox"><br>
 </div>
