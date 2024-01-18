@@ -20,7 +20,7 @@
 
 <br>
 
-### Github Stats:
+### 📊 Github Stats:
 <div style="display: inline_block" align="left">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunogsr&show_icons=true&theme=gruvbox"> <br>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunogsr&layout=compact&theme=gruvbox"> <br>
@@ -34,7 +34,7 @@
 <br>
 <br>
 
-### Tecnologias que uso atualmente:
+### 🛠️ Tecnologias que uso atualmente:
 
 <br>
 
