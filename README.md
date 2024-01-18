@@ -1,6 +1,6 @@
 ## 🕵️ Sobre mim:
 
-<div align="center" min-width="400px" max-width="400px" width="200px" >
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&width=435&lines=Hello+there!+🌞🙌)](https://git.io/typing-svg)
 
