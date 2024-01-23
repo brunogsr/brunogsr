@@ -17,11 +17,9 @@
   
 <h3>
   
-- 🔭 Estudante da Trybe
-  
 - 🌱 Desenvolvedor FullStack de Florianópolis/SC
   
-- 💬 Atualmente estou aprendendo C#
+- 🔭 Atualmente estou aprendendo C#
 
 - 💻 Apaixonado por jogos e animes
 
