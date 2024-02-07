@@ -43,7 +43,7 @@
 
 <br>
 
-### 🛠️ Tecnologias que uso atualmente:
+### 🛠️ Technologies I'm currently using:
 
 <br>
 
