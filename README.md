@@ -17,13 +17,13 @@
   
 <h3>
   
-- 🌱 Desenvolvedor FullStack de Florianópolis/SC
-  
-- 🔭 Atualmente estou aprendendo C#
+- 🌱 FullStack Developer from Florianópolis/SC
 
-- 💻 Apaixonado por jogos e animes
+- 🔭 Currently learning C#
 
-- 📫 Sinta-se livre para me contatar via e-mail: bruno.salinasgsr@gmail.com <br>
+- 💻 Passionate about games and anime
+
+- 📫 Feel free to contact me via email: bruno.salinasgsr@gmail.com
 </h3>
 </p>
 
