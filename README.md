@@ -27,6 +27,8 @@
 </h3>
 </p>
 
+##
+
 </div>
 <br>
 
@@ -42,6 +44,8 @@
 </div>
 
 <br>
+
+##
 
 ### 🛠️ Technologies I'm currently using:
 
