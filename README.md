@@ -45,7 +45,6 @@
 
 ### 🛠️ Technologies I'm currently using:
 
-<br>
 
 <div align="center">
   <h3 align="center">Front-End</h3>
