@@ -19,7 +19,7 @@
   
 <h3>
   
-- 🌱 FullStack Developer from Florianópolis/SC
+- 🌱 BackEnd Developer from Florianópolis/SC
 
 - 🔭 Currently learning C#
 
